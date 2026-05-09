@@ -1,39 +1,15 @@
-# 🚀 Vivek Vardhan Maharana | Futuristic Portfolio
+# Installation
+> `npm install --save @types/node`
 
-Welcome to the code repository for my personal portfolio website! 
+# Summary
+This package contains type definitions for node (https://nodejs.org/).
 
-This project is a highly interactive, responsive, and futuristic web application built to showcase my experience in API development, Groovy scripting, and UKG WFM integrations. 
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node/v20.
 
-🔗 **[Click here to view the live website!](https://VivekMaharana87.github.io)** *(Update this link once your site is live)*
+### Additional Details
+ * Last updated: Thu, 26 Feb 2026 18:47:04 GMT
+ * Dependencies: [undici-types](https://npmjs.com/package/undici-types)
 
-## ✨ Features
-- **Futuristic UI/UX:** Glassmorphism, subtle glows, and a premium dark mode aesthetic.
-- **Interactive Particle Background:** Custom HTML5 Canvas mesh gradient that reacts smoothly.
-- **Scroll-Triggered Motion:** Cinematic staggered animations using Framer Motion.
-- **Responsive Design:** Flawless experience across Mobile, Tablet, and Desktop.
-- **Performance Optimized:** Fully static Next.js export for blazing-fast load times.
-
-## 🛠️ Tech Stack
-- **Framework:**[Next.js (App Router)](https://nextjs.org/)
-- **Language:** TypeScript
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Animations:** [Framer Motion](https://www.framer.com/motion/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Deployment:** GitHub Pages
-
-## 💻 Run Locally
-Want to explore the code on your own machine?
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VivekMaharana87/VivekMaharana87.github.io.git
-
-2. Install dependencies:
-    Bash
-    npm install
-
-3. Run the development server:
-    Bash
-    npm run dev
-    
-4. Open http://localhost:3000 in your browser.
+# Credits
+These definitions were written by [Microsoft TypeScript](https://github.com/Microsoft), [Alberto Schiabel](https://github.com/jkomyno), [Andrew Makarov](https://github.com/r3nya), [Benjamin Toueg](https://github.com/btoueg), [David Junger](https://github.com/touffy), [Mohsen Azimi](https://github.com/mohsen1), [Nikita Galkin](https://github.com/galkin), [Sebastian Silbermann](https://github.com/eps1lon), [Wilco Bakker](https://github.com/WilcoBakker), [Marcin Kopacz](https://github.com/chyzwar), [Trivikram Kamat](https://github.com/trivikr), [Junxiao Shi](https://github.com/yoursunny), [Ilia Baryshnikov](https://github.com/qwelias), [ExE Boss](https://github.com/ExE-Boss), [Piotr Błażejewicz](https://github.com/peterblazejewicz), [Anna Henningsen](https://github.com/addaleax), [Victor Perin](https://github.com/victorperin), [NodeJS Contributors](https://github.com/NodeJS), [Linus Unnebäck](https://github.com/LinusU), [wafuwafu13](https://github.com/wafuwafu13), [Matteo Collina](https://github.com/mcollina), and [Dmitry Semigradsky](https://github.com/Semigradsky).
